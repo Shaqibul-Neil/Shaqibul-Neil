@@ -1,8 +1,7 @@
 <div align="center">
- 
- 
-![Image](https://github.com/user-attachments/assets/3ef3115c-d2b3-416b-9d86-0f1a36696d1e)
+  <img src="https://github.com/user-attachments/assets/a164cc8f-ada5-4f88-a802-2e05229ecb5c" alt="Image" height="400" width="1200"/>
 </div>
+
 
 
 <h1 align="center">Hi 👋, I'm Md. Shakibul Islam</h1>
