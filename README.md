@@ -1,11 +1,15 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a164cc8f-ada5-4f88-a802-2e05229ecb5c" alt="Image" height="400" width="1200"/>
 </div>
-
-
-
 <h1 align="center">Hi 👋, I'm Md. Shakibul Islam</h1>
 <h3 align="center">Full-stack Web Developer</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&width=500&center=true&lines=Code+Futurist+%F0%9F%9A%80;Problem+Solver+%F0%9F%A4%96;Tech+Explorer+%F0%9F%8C%8C;Visionary+Builder+%F0%9F%92%A1;Neural+Designer+%F0%9F%A7%A0" alt="Typing SVG" />
+  </a>
+</p>
+
 
 # 💫 About Me:
 Hi 👋, I'm Md. Shakibul Islam, an aspiring full-stack developer passionate about building modern web applications and learning new technologies. I have hands-on experience with JavaScript, React, Node.js, and WordPress, and currently exploring TypeScript for scalable projects.  
