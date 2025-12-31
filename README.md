@@ -17,7 +17,7 @@ Hi 👋, I'm Md. Shaqibul Islam, an aspiring full-stack developer passionate abo
 I enjoy solving real-world problems, creating smooth user experiences, and learning new technologies that improve workflow and performance.  
 My goal is to grow as a developer by contributing to meaningful projects, exploring modern frameworks, and improving both front-end and back-end capabilities.
 
-- 🔭 I’m currently working on [ShareBite](https://sharebitemeal.netlify.app/)
+- 🔭 I’m currently working on [ShareBite](https://sharebitemeal.netlify.app/) and [URBANi](https://urban-i.netlify.app/)
 - 🌱 I’m currently learning **React, NextJS, NodeJS**
 - 💬 Ask me about **JavaScript, React, NodeJS, NextJS**
 - 📫 How to reach me
