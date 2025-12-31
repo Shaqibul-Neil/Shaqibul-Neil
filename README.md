@@ -12,14 +12,14 @@
 
 
 # 💫 About Me:
-Hi 👋, I'm Md. Shakibul Islam, an aspiring full-stack developer passionate about building modern web applications and learning new technologies. I have hands-on experience with JavaScript, React, Node.js, and WordPress, and currently exploring TypeScript for scalable projects.  
+Hi 👋, I'm Md. Shakibul Islam, an aspiring full-stack developer passionate about building modern web applications and learning new technologies. I have hands-on experience with JavaScript, React, NextJS, Node.js, and WordPress, and currently exploring NextJS for scalable projects.  
 
 I enjoy solving real-world problems, creating smooth user experiences, and learning new technologies that improve workflow and performance.  
 My goal is to grow as a developer by contributing to meaningful projects, exploring modern frameworks, and improving both front-end and back-end capabilities.
 
 - 🔭 I’m currently working on [ShareBite](https://sharebitemeal.netlify.app/)
-- 🌱 I’m currently learning **React, TypeScript, NodeJS**
-- 💬 Ask me about **JavaScript, React, NodeJS**
+- 🌱 I’m currently learning **React, NextJS, NodeJS**
+- 💬 Ask me about **JavaScript, React, NodeJS, NextJS**
 - 📫 How to reach me
   
   **Email:** Shaqibul.islam.neil@gmail.com       
@@ -33,7 +33,7 @@ My goal is to grow as a developer by contributing to meaningful projects, explor
 |------------------------------ |--------------|
 | **Languages**                 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
 | **CSS Frameworks & Libraries**| ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **JavaScript Frameworks & Libraries** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
+| **JavaScript Frameworks & Libraries** | ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
 | **Database**                 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Deployment Platform**      | ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)|
 | **CMS & Page Builders**      | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-7A2CFF?style=for-the-badge&logo=elementor&logoColor=white) ![WPBakery](https://img.shields.io/badge/WPBakery-00A3E0?style=for-the-badge&logo=wordpress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white) |
