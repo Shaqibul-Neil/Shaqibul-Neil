@@ -12,7 +12,7 @@
 
 
 # 💫 About Me:
-Hi 👋, I'm Md. Shakibul Islam, an aspiring full-stack developer passionate about building modern web applications and learning new technologies. I have hands-on experience with JavaScript, React, NextJS, Node.js, and WordPress, and currently exploring NextJS for scalable projects.  
+Hi 👋, I'm Md. Shaqibul Islam, an aspiring full-stack developer passionate about building modern web applications and learning new technologies. I have hands-on experience with JavaScript, React, NextJS, Node.js, and WordPress, and currently exploring NextJS for scalable projects.  
 
 I enjoy solving real-world problems, creating smooth user experiences, and learning new technologies that improve workflow and performance.  
 My goal is to grow as a developer by contributing to meaningful projects, exploring modern frameworks, and improving both front-end and back-end capabilities.
